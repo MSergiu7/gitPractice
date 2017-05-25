@@ -1,6 +1,1 @@
 # gitPractice
-
-aasdasd
-
-ASd
-
